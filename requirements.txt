@@ -1,0 +1,12 @@
+# linearmodels
+# lmdiag
+matplotlib
+# numba
+numpy
+pandas
+# seaborn
+scipy
+see
+statsmodels
+# sympy
+wooldridge
