@@ -4,6 +4,7 @@ matplotlib
 # numba
 numpy
 pandas
+py4macro
 # seaborn
 scipy
 see
